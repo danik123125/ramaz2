@@ -1,0 +1,54 @@
+      <html>
+    <head>
+        <title>Грузовые автомобили</title>
+        <link rel="stylesheet" href="style.css">
+    </head> 
+    <body>
+        <header>
+            <img id ="logo" src="https://baltlease.ru/upload/iblock/2ae/kamaz_65115.png" height="60px"/>
+            <b>Внимание! Сезонные скидки 40% </b><a href="">Подробнее</a>
+        </header>
+        <main>
+            <nav>
+                <a href="">Продукция</a>
+                <a href="">Как арендавать?</a>
+                <a href="">О компании</a>
+            </nav>
+            <h1><i>Грузовые автомобили</i></h1>
+            <img class="yy" src="https://krot.info/uploads/posts/2022-01/1642941143_2-krot-info-p-vidi-gruzovikh-mashin-7.jpg" width="850px"/>
+            <h2 id="price">Наши машины</h2>
+            <p>
+                <p class="tr"><img src="https://baltlease.ru/upload/iblock/c7b/kamaz_65802.png" width="100px"/><br/>Камаз</p>
+                <p class="tr"><img src="https://npo-bshm.com/public/assetmanagement/uploads/bortovie/4_2/5340E9.png" width="100px"/><br/>Бортовой автомобиль</p>
+                <p class="tr"><img src="https://hdpic.club/uploads/posts/2022-01/1643056594_1-hdpic-club-p-ekskavator-kartinki-dlya-detei-3.png" width="100px"/><br/>экскаватор</p>
+                <p class="tr"><img src="https://mtz.ru/images/stories/virtuemart/product/4_22_109-_80_1_.png" width="100px"/><br/>трактор</p>
+            </p>
+            <h2 class="tt" id="discount"></h2>
+            <img class="yy" src="https://assets.avtocod.ru/storage/2018-01/24/mceclip3.jpg" width="850px"/>
+              <div>
+            <h2 class="tt" id="delivery">Как приобрести?</h2>
+            <a class="ty" href="#contacts">Контакты</a>
+            <p>Вы можете сделать заказ по телефону.</p>
+            <p>В компание вас ждёт подробный рассказ о нашей продукции.</p>
+            <p>Вы также можете по телефону сделать предзаказ для резервирования товаров в магазине.</p>
+            <h2 class="tt" id="wholesale">1 час арендавать</h2>
+            <p>Камаз-3000 сом</p>
+            <p>Бортовой автомобиль-2000 сом</p>
+            <p>экскаватор-5000 сом</p>
+            <p>трактор-3000 сом</p>
+            <h2 class="tt" id="about_us">О компании</h2>
+            <p>«КАМАЗ» образован в 1969 году как Камский комплекс заводов по производству большегрузных автомобилей (производственное объединение «КамАЗ»). Первый автомобиль сошёл с главного сборочного конвейера 16 февраля 1976 года. С тех пор выпущено более 2,25 млн. автомобилей и около 2,85 млн.</p>
+            </div>
+            <img class="yy" src="https://5koleso.ru/wp-content/uploads/2019/11/050gk.jpg" width="400px"/><br/>
+            <div>
+            <p>первого КАМАЗ</p>
+            </div>
+            <p><a class="ty" href="#logo">Наверх</a></p>
+        </main>
+        <footer>
+            <p id="contacts"><b><i>Контакты</i></b></p>
+            <p>Адрес: г. Звёздный, пр-кт. Экспериментальный, 21</p>
+            <p>Тел.: 2502-3716</p>
+        </footer>
+    </body>
+</html>
